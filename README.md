@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> Pattern Lab is no longer actively maintained. All repositories, along with the rest of the @pattern-lab ecosystem on GitHub and npm, have been deprecated and archived. The code, releases, and history remain available so the work stays discoverable and forks can continue independently under the MIT license. No new releases, security patches, or issue triage will be performed.
+> [Read the full message](https://github.com/pattern-lab), and thank you.
+
 <p align="center">
   <img src='/patternlab.png' width="300" height="166" alt="Pattern Lab Logo" style="max-width: 100%;" />
 </p>
